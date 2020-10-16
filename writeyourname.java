@@ -1,4 +1,6 @@
 public class writeYourName{
+  public static void divide(int a, int b){
+    System.out.print(j/i);
   public static void main(String args[]){
     System.out.println("My name is ashutosh prasad");
     System.out.println("this is my code");
@@ -7,6 +9,7 @@ public class writeYourName{
     int sum = i+j;
     int mult = i*j;
     System.out.println(mult/sum);
+    divide(i,j);
   }
 }
 
